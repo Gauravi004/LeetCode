@@ -9,7 +9,7 @@ class Solution { public int atMost(int[] nums, int k) {
         while (j < n) {
 
             mp.put(nums[j], mp.getOrDefault(nums[j], 0) + 1);
-
+            
             while (mp.size() > k) {
                 mp.put(nums[i], mp.get(nums[i]) - 1);
 
