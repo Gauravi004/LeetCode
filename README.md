@@ -13,5 +13,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gauravi004/LeetCode/tree/master/0001-two-sum) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauravi004/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Gauravi004/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
