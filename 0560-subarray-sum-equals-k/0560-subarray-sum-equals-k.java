@@ -9,8 +9,6 @@ class Solution {
             if(sum == k){
                 count++;
             }
-
-
           }
 
         }
