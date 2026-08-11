@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gauravi004/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Gauravi004/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gauravi004/LeetCode/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gauravi004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravi004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Gauravi004/LeetCode/tree/master/0189-rotate-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Gauravi004/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
