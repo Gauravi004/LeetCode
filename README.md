@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gauravi004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravi004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gauravi004/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
 |  |
 | ------- |
