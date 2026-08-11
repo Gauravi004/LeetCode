@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gauravi004/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Gauravi004/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gauravi004/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Gauravi004/LeetCode/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gauravi004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravi004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gauravi004/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Gauravi004/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Gauravi004/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
