@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gauravi004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Gauravi004/LeetCode/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gauravi004/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gauravi004/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravi004/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gauravi004/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gauravi004/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauravi004/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gauravi004/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
