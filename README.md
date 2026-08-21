@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravi004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Gauravi004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Gauravi004/LeetCode/tree/master/0125-valid-palindrome) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauravi004/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gauravi004/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Gauravi004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gauravi004/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gauravi004/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravi004/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gauravi004/LeetCode/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gauravi004/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
