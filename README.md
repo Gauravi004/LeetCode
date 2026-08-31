@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gauravi004/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Gauravi004/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Gauravi004/LeetCode/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauravi004/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Hash Table
 |  |
@@ -224,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Gauravi004/LeetCode/tree/master/0061-rotate-list) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
