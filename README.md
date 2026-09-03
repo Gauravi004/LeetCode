@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gauravi004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Gauravi004/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Gauravi004/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/Gauravi004/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravi004/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Gauravi004/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Gauravi004/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Gauravi004/LeetCode/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
