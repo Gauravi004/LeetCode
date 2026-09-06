@@ -168,11 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Gauravi004/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gauravi004/LeetCode/tree/master/0189-rotate-array) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauravi004/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Gauravi004/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gauravi004/LeetCode/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gauravi004/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
