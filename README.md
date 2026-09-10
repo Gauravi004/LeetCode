@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Gauravi004/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Gauravi004/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Gauravi004/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Gauravi004/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Gauravi004/LeetCode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravi004/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -251,9 +252,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gauravi004/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Gauravi004/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gauravi004/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/Gauravi004/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Gauravi004/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Gauravi004/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Gauravi004/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Gauravi004/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
