@@ -21,7 +21,6 @@ class Solution {
                }
                longest = Math.max(longest, count);
             }
-
         }
         return longest;
         
