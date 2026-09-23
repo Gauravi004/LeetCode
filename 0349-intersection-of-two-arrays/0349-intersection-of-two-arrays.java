@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
     public int[] intersection(int[] nums1, int[] nums2) {
         HashSet<Integer> set = new HashSet<>();
         ArrayList<Integer> list = new ArrayList<>();
