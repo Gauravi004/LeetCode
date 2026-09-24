@@ -32,20 +32,3 @@ class Solution {
     }
 }
 
-// Separate main class for testing
-class Main {
-    public static void main(String[] args) {
-        // Create an instance of Solution
-        Solution sol = new Solution();
-        
-        // Example input
-        double x = 2.0;
-        int n = 10;
-
-        // Calculate power
-        double result = sol.myPow(x, n);
-
-        // Print result
-        System.out.println(x + "^" + n + " = " + result);
-    }
-}
