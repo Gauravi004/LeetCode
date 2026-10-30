@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gauravi004/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Gauravi004/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Gauravi004/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Gauravi004/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Gauravi004/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Gauravi004/LeetCode/tree/master/0125-valid-palindrome) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Gauravi004/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Gauravi004/LeetCode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gauravi004/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
