@@ -18,15 +18,28 @@ class Solution {
         if(root==null){
             return null;
         }
-        if(root.val == val){
-            return root;
-        }
+        // if(root.val == val){
+        //     return root;
+        // }
 
-        if(val<root.val){
-          return  searchBST(root.left, val);
-        }
+        // if(val<root.val){
+        //   return  searchBST(root.left, val);
+        // }
 
-           return searchBST(root.right, val);
-        
+        //    return searchBST(root.right, val);
+
+        while(root!=null){
+            if(root.val == val){
+                return root;
+            }
+
+            if(val<root.val){
+                root = root.left;
+            }
+            else {
+                root = root.right;
+            }
+        }
+        return null;
     }
 }
